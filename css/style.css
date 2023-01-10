@@ -1,0 +1,85 @@
+.container {
+    text-align: center;
+    background-color: rgba(128, 128, 128, 0.178);
+    margin: 0px 90px;
+}
+
+.header img {
+    display: block;
+    margin: auto;
+    font-size: small;
+
+}
+
+
+.container p {
+    margin-bottom: 0px;
+    padding: 0px 50px;
+}
+
+.container input {
+    width: 18%;
+
+}
+
+
+.nav {
+    font-size: 12px;
+    float: left;
+}
+
+
+.kutu-1 {
+    width: 30%;
+    height: auto;
+    background-color: rgb(121, 185, 185);
+    float: left;
+    text-align: center;
+    margin-left: 90px;
+    margin-top: 2px;
+    height: 100px;
+    font-size: 14px;
+}
+
+.kutu-2 {
+    width: 30%;
+    height: auto;
+    background-color: rgb(121, 185, 185);
+    float: left;
+    text-align: center;
+    margin-bottom: -20px;
+    margin-left: 6px;
+    height: 100px;
+    font-size: 12px;
+    margin-top: 2px;
+
+}
+
+.kutu-3 {
+    width: 29%;
+    height: auto;
+    background-color: rgb(121, 185, 185);
+    float: left;
+    text-align: center;
+    margin-left: 6px;
+    margin-top: 2px;
+    height: 100px;
+    font-size: 12px;
+
+}
+
+.kutu-2 p {
+    font-size: 12px;
+    margin: 10px 0px 0px 0px;
+    text-decoration: underline;
+    color: blue;
+    
+}
+
+.footer {
+text-align: center;
+font-size: 12px;
+clear: both;
+padding-top: 10px;
+
+}
